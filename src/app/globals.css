@@ -1,0 +1,10 @@
+.sb-nav_link-icon > svg {
+    height: 1em;
+    vertical-align: -0.125em;
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.25);
+}
+
+.sb-nav_link-icon {
+    margin-right: 0.5rem;
+}
